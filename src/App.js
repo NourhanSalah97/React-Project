@@ -5,7 +5,8 @@ import StudentDetails from '../src/Containers/student-details'
 import {applyMiddleware,createStore} from 'redux'
 import {Provider} from 'react-redux'
 import reducers from './Reducers'
-const createStoreWithMW=applyMiddleware()(createStore)
+import PromiseMW from 'redux-promise'
+const createStoreWithMW=applyMiddleware(PromiseMW)(createStore)
 const App=()=> {
   return (
     <Provider store={createStoreWithMW(reducers)}>

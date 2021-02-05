@@ -1,0 +1,75 @@
+ {
+     "students":[
+    {
+        "id":1,
+        "name":"Ahmed",
+        "age":10,
+        "phone":"0102030"
+
+    },
+    {
+        "id":2,
+        "name":"Ali",
+        "age":16,
+        "phone":"0102040"
+
+    },
+    {
+        "id":3,
+        "name":"Muhamad",
+        "age":18,
+        "phone":"0102050"
+
+    },
+    {
+        "id":4,
+        "name":"Ibrahim",
+        "age":9,
+        "phone":"0102060"
+
+    },
+    {
+        "id":5,
+        "name":"Omar",
+        "age":14,
+        "phone":"0102070"
+
+    },
+    {
+        "id":6,
+        "name":"Alaa",
+        "age":13,
+        "phone":"0102080"
+
+    },
+    {
+        "id":7,
+        "name":"Nour",
+        "age":10,
+        "phone":"0102090"
+
+    },
+    {
+        "id":8,
+        "name":"Sara",
+        "age":17,
+        "phone":"0102000"
+
+    },
+    {
+        "id":9,
+        "name":"Noha",
+        "age":16,
+        "phone":"0103010"
+
+    },
+    {
+        "id":10,
+        "name":"Aya",
+        "age":18,
+        "phone":"0103020"
+
+    }
+
+]
+ }

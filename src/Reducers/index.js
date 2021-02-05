@@ -1,5 +1,5 @@
 import {combineReducers} from 'redux'
-import { studentsList } from './students-list'
+import { StudentsList } from './students-list'
 export default combineReducers({
-    list:studentsList
+    list:StudentsList
 })
